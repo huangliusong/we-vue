@@ -20,6 +20,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "style": "lib/style.css",
+  "typings": "types/indes.d.ts",
   "files": [
     "lib",
     "src"
